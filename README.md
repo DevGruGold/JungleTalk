@@ -1,20 +1,28 @@
+
 # JungleTalk
 
-## Description
-This is a Python project.
+## Project Description
+A jungle-themed chat application for nature enthusiasts.
+
+## Features
+- Group and private chats
+- Nature-themed emojis
+- Secure messaging
+
+## Technology Stack
+Flutter, Dart, Firebase
 
 ## Installation
-1. Ensure Python is installed.
-2. Run `pip install -r requirements.txt` to install dependencies.
+Clone the repository and follow the setup instructions for Flutter.
 
 ## Usage
-Run `python main.py` to start the application.
+Chat with friends and share your love for nature.
 
 ## Contributing
-Please fork the repo and submit a pull request.
-
-## Author
-DevGruGold AKA Joseph Andrew Lee
+Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries, please contact DevGruGold AKA Joseph Andrew Lee.
